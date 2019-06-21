@@ -1,0 +1,3 @@
+rootProject.name = 'invnetory_4983'
+
+include ':app'
